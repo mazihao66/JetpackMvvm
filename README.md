@@ -1,4 +1,4 @@
-[![Platform][1]][2] [![GitHub license][3]][4]  [![GitHub license][5]][6] 
+
 
 [1]:https://img.shields.io/badge/platform-Android-blue.svg  
 [2]:https://github.com/hegaojian/JetpackMvvm
